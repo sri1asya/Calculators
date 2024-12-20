@@ -1,3 +1,5 @@
+# Basic Area and Volume Calculator
+#Calculator for finding: areas (square, rectangle, circle, triangle), volumes (sphere, rectangular prism, cube), and circumference of a circle.
 import math
 
 def squarea(x):
